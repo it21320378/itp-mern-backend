@@ -1,5 +1,5 @@
 import mongoose from 'mongoose';
-
+//model,. l
 
 const ticketSchema = new mongoose.Schema({
 
